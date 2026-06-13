@@ -100,11 +100,11 @@ v0.1    ████████████░░░░  75%
 
 ---
 
-### 🐍 Contribution
+### 📈 Activity
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/AbdullahKhan-77/AbdullahKhan-77/output/github-contribution-grid-snake-dark.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahKhan-77&bg_color=0d0d14&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=3b0764&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/AbdullahKhan-77)
 
 </div>
 
