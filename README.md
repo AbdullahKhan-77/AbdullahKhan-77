@@ -1,44 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00ff9040,100:00ff90&height=130&section=header&text=Abdullah%20Khan&fontSize=42&fontColor=00ff90&fontAlignY=65&animation=fadeIn&fontFamily=JetBrains%20Mono&desc=Systems%20Engineer%20%7C%20Builder%20%7C%20Founder&descAlignY=82&descSize=13&descColor=ffffff" width="100%"/>
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:3b0764,100:0a0a0f&height=200&section=header&text=Abdullah%20Khan&fontsize=52&fontColor=c4b5fd&fontAlignY=55&animation=fadeIn&fontFamily=JetBrains%20Mono&desc=Systems%20Engineer%20%7C%20Builder%20%7C%20Founder&descSize=14&descColor=6d6a8a&descAlignY=75)](https://github.com/AbdullahKhan-77)
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=a78bfa&center=true&vCenter=true&multiline=false&width=600&lines=CS+Student+%40+FAST-NUCES+Lahore+%7C+Class+of+%2728;Building+systems-level+software+%26+AI+tools.;Stealth+startup+in+progress.+%F0%9F%94%92;Ship+first.+Perfect+later.)](https://github.com/AbdullahKhan-77)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=00FF90&center=true&vCenter=true&multiline=false&width=600&lines=CS+Student+%40+FAST-NUCES+Lahore+%7C+Class+of+2028;I+build+systems-level+software+%26+AI+tools.;Stealth+startup+in+progress+🔒;Ship+first.+Perfect+later." alt="Typing SVG" />
+<br>
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/AbdullahKhan-77?style=flat-square&color=00ff90&labelColor=0a0a0a&label=Followers&logo=github&logoColor=00ff90)](https://github.com/AbdullahKhan-77)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=AbdullahKhan-77&style=flat-square&color=00ff90&labelColor=0a0a0a&label=Profile+Views)](https://github.com/AbdullahKhan-77)
-&nbsp;
-![Status](https://img.shields.io/badge/Status-Building-00ff90?style=flat-square&labelColor=0a0a0a&logo=rocket&logoColor=00ff90)
+[![GitHub followers](https://img.shields.io/github/followers/AbdullahKhan-77?style=flat-square&color=7c3aed&labelColor=0a0a0f&label=Followers&logo=github&logoColor=a78bfa)](https://github.com/AbdullahKhan-77)
+[![Profile Views](https://komarev.com/ghpvc/?username=AbdullahKhan-77&style=flat-square&color=7c3aed&labelColor=0a0a0f&label=Profile+Views)](https://github.com/AbdullahKhan-77)
+[![Status](https://img.shields.io/badge/Status-Building-00d9a3?style=flat-square&labelColor=0a0a0f&logo=rocket&logoColor=00d9a3)](https://github.com/AbdullahKhan-77)
+[![Location](https://img.shields.io/badge/Lahore%2C%20Pakistan-🇵🇰-a78bfa?style=flat-square&labelColor=0a0a0f)](https://github.com/AbdullahKhan-77)
 
 </div>
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhan-77&layout=donut&theme=merko&hide_border=true&langs_count=6&bg_color=0a0a0a&title_color=00ff90&text_color=aaaaaa" />
-
 ```bash
-┌─────────────────────────────────┐
-│  ~ whoami                       │
-│  > Abdullah Khan                │
-│                                 │
-│  ~ cat focus.txt                │
-│  > systems engineering + AI     │
-│                                 │
-│  ~ cat mission.txt              │
-│  > ship things that matter      │
-│                                 │
-│  ~ echo $LOCATION               │
-│  > Lahore, Pakistan 🇵🇰          │
-│                                 │
-│  ~ █                            │
-└─────────────────────────────────┘
-```
+❯ whoami
+  Abdullah Khan  //  CS student → systems engineer → builder
 
-<br clear="right"/>
+❯ cat mission.txt
+  Build tools that real engineers reach for when it matters most.
+
+❯ echo $STACK
+  C++ · Python · FastAPI · Next.js · PostgreSQL · PyTorch · LLMs
+
+❯ cat focus.txt
+  systems-level software  +  AI-native tooling
+
+❯ echo $LOCATION
+  Lahore, Pakistan 🇵🇰 · UTC+5 · FAST-NUCES '28
+
+❯ █
+```
 
 ---
 
@@ -46,31 +40,34 @@
 
 **Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,bash&theme=dark" />
-</p>
+[![](https://skillicons.dev/icons?i=cpp,python,ts,js,bash&theme=dark)](https://github.com/AbdullahKhan-77)
 
 **Backend & Infrastructure**
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,redis,docker&theme=dark" />
-</p>
+[![](https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,redis,docker&theme=dark)](https://github.com/AbdullahKhan-77)
 
 **Frontend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
-</p>
+[![](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark)](https://github.com/AbdullahKhan-77)
 
 **AI / ML & Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,linux,git,github,vscode&theme=dark" />
-</p>
+[![](https://skillicons.dev/icons?i=pytorch,sklearn,linux,git,github,vscode&theme=dark)](https://github.com/AbdullahKhan-77)
 
 ---
 
-## 🔒 Currently Building
+## 📂 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🛡️ **[TraceZero](https://github.com/AbdullahKhan-77/TraceZero)** | AI-powered digital footprint removal agent | RoBERTa · DistilBERT · FastAPI · Playwright |
+| 📈 **[StockPulse](https://github.com/AbdullahKhan-77/StockPulse)** | PSX analytics with ML predictions + AI chat | React · Chart.js · FastAPI · scikit-learn · Claude API |
+| 💬 **[BLABB](https://github.com/AbdullahKhan-77/BLABB)** | C++ social networking application | C++ · OOP · Three-layer Architecture · File Persistence |
+| 🎮 **[Road to Downfall](https://github.com/AbdullahKhan-77/ROAD-TO-DOWNFALL)** | Full retro racing game — 100% x86 Assembly | x86 ASM · Zero abstractions |
+
+---
+
+## 🔒 In Progress
 
 ```
 ╔══════════════════════════════════════════════╗
@@ -78,64 +75,26 @@
 ║   AI × Systems Engineering                  ║
 ║                                              ║
 ║   Private repo · Shipping soon™             ║
-║   Status: ████████░░  80% to v0.1            ║
+║   Status: ████████████░░░░  75% to v0.1     ║
 ╚══════════════════════════════════════════════╝
 ```
 
-![Active](https://img.shields.io/badge/●_Active_Development-00ff90?style=flat-square&labelColor=0a0a0a)
-![C++](https://img.shields.io/badge/C%2B%2B_Heavy-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0a0a0a)
-![AI Powered](https://img.shields.io/badge/AI_Powered-CC785C?style=flat-square&logo=anthropic&logoColor=white&labelColor=0a0a0a)
+[![Active](https://img.shields.io/badge/⚡_Active_Development-7c3aed?style=flat-square&labelColor=0a0a0f)](https://github.com/AbdullahKhan-77)
+[![C++](https://img.shields.io/badge/C%2B%2B_Heavy-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0a0a0f)](https://github.com/AbdullahKhan-77)
+[![AI](https://img.shields.io/badge/AI_Powered-CC785C?style=flat-square&logo=anthropic&logoColor=white&labelColor=0a0a0f)](https://github.com/AbdullahKhan-77)
 
 ---
 
-## 📂 Featured Projects
+## 🧠 Currently Learning
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [TraceZero](https://github.com/AbdullahKhan-77/TraceZero)
-> 🛡️ AI-powered digital footprint removal agent
-
-Fine-tuned **RoBERTa NER** + **DistilBERT** classifier + **FastAPI** backend + **Playwright** browser automation.
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,react&theme=dark&perline=3" height="28"/>
-
-</td>
-<td width="50%" valign="top">
-
-### [StockPulse](https://github.com/AbdullahKhan-77/StockPulse)
-> 📈 PSX analytics with ML predictions + AI chat
-
-React + Chart.js frontend, FastAPI + scikit-learn ML service, Claude API for AI insights.
-
-<img src="https://skillicons.dev/icons?i=js,react,python&theme=dark&perline=3" height="28"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [BLABB](https://github.com/AbdullahKhan-77/BLABB)
-> 💬 C++ social networking application
-
-OOP design, file-based persistence, three-layer architecture. Built for Visual Studio.
-
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark&perline=3" height="28"/>
-
-</td>
-<td width="50%" valign="top">
-
-### [Road to Downfall](https://github.com/AbdullahKhan-77/ROAD-TO-DOWNFALL)
-> 🎮 Retro racing game — 100% x86 Assembly
-
-Full game logic, rendering, and collision detection. Zero higher-level abstractions.
-
-![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-</table>
+```
+▸ RAG pipelines · vector DBs · pgvector
+▸ LLM fine-tuning · prompt engineering at scale
+▸ OS internals · process scheduling · memory management
+▸ C++ crash dump parsing · DWARF debug symbols · addr2line
+▸ Distributed systems · Kafka · real-time event streaming
+▸ WebSockets · token streaming · low-latency API design
+```
 
 ---
 
@@ -143,13 +102,10 @@ Full game logic, rendering, and collision detection. Zero higher-level abstracti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahKhan-77&show_icons=true&theme=merko&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&bg_color=0a0a0a&title_color=00ff90&icon_color=00ff90&text_color=aaaaaa" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhan-77&layout=compact&theme=merko&hide_border=true&langs_count=6&bg_color=0a0a0a&title_color=00ff90&text_color=aaaaaa" height="165"/>
+[![Stats](https://github-readme-stats.vercel.app/api?username=AbdullahKhan-77&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&bg_color=0a0a0f&title_color=a78bfa&icon_color=7c3aed&text_color=6d6a8a)](https://github.com/AbdullahKhan-77)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhan-77&layout=donut&theme=transparent&hide_border=true&langs_count=6&bg_color=0a0a0f&title_color=a78bfa&text_color=6d6a8a)](https://github.com/AbdullahKhan-77)
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahKhan-77&theme=merko&hide_border=true&background=0a0a0a&ring=00ff90&fire=00ff90&currStreakLabel=00ff90&sideLabels=aaaaaa&dates=555555" height="140"/>
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahKhan-77&theme=transparent&hide_border=true&background=0a0a0f&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=4a4760&dates=3d3a5a)](https://github.com/AbdullahKhan-77)
 
 </div>
 
@@ -157,24 +113,12 @@ Full game logic, rendering, and collision detection. Zero higher-level abstracti
 
 ## 🐍 Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AbdullahKhan-77/AbdullahKhan-77/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-
-</div>
+[![contribution snake](https://raw.githubusercontent.com/AbdullahKhan-77/AbdullahKhan-77/output/github-contribution-grid-snake-dark.svg)](https://github.com/AbdullahKhan-77)
 
 ---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff90,50:00ff9040,100:0a0a0a&height=100&section=footer&text=build%20·%20break%20·%20learn%20·%20repeat&fontSize=14&fontColor=00ff90&fontAlignY=65&fontFamily=JetBrains%20Mono" width="100%"/>
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:3b0764,100:0a0a0f&height=100&section=footer&text=build%20%C2%B7%20ship%20%C2%B7%20repeat&fontSize=14&fontColor=4a4760&fontAlignY=65&fontFamily=JetBrains%20Mono)](https://github.com/AbdullahKhan-77)
 
 </div>
